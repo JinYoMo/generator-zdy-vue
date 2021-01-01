@@ -1,2 +1,2 @@
-# generator-zce-vue
+# generator-fjk-vue
 一款自定义的vue项目脚手架
